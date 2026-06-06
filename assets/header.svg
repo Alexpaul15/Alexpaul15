@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="50%" style="stop-color:#8b5cf6"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <circle cx="150" cy="80" r="120" fill="url(#accent)"/>
+  <circle cx="1050" cy="200" r="90" fill="url(#accent)"/>
+  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle">Paul Alex Samuel</text>
+  <text x="600" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#e2e8f0" text-anchor="middle">AI Engineer  |  Generative AI  |  Multi-Agent Systems  |  RAG</text>
+  <text x="600" y="210" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle">Hyderabad, India  |  JSW Steel (via Sereno)  |  2+ Years Production GenAI</text>
+</svg>
