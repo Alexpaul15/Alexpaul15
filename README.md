@@ -189,7 +189,3 @@
   <img src="https://komarev.com/ghpvc/?username=Alexpaul15&color=6366f1&style=flat-square&label=Profile+Views" alt="Views"/>
   <img src="https://img.shields.io/badge/Hyderabad,_India-6366f1?style=flat-square" alt="City"/>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alexpaul15/Alexpaul15/output/github-snake-dark.svg" alt="Contribution Snake"/>
-</p>
